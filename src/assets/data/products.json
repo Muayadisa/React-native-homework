@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "title": "Italian food",
+      "subTitle": "Italian food is really a celebration of produce, and protein is a secondary thought",
+      "img": "https://static.onecms.io/wp-content/uploads/sites/23/2020/06/23/italian-food-2000.jpg",
+      "products": [
+        {
+          "id": 0,
+          "img": "https://www.delonghi.com/Global/recipes/multifry/pizza_fresca.jpg",
+          "title": "Pizza",
+          "price": 69
+        },
+        {
+          "id": 1,
+          "img": "https://www.simplyrecipes.com/thmb/hGHrTRrT7yY_Q9SuY1Gb4-uMN9A=/1600x1067/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2013__02__pasta-puttanesca-fork-horiz-1600-aeb7e018a32b4bc2ae85ea893cabdb40.jpg",
+          "title": "Pasta",
+          "price": 25
+        },
+        {
+          "id": 2,
+          "img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/rice-with-peas.jpg?itok=6PdiOqAz",
+          "title": "Risi e bisi",
+          "price": 18
+        },
+        {
+          "id": 3,
+          "img": "https://y6c9r7d2.rocketcdn.me/wp-content/uploads/2012/02/Agliata-3-1024x683.jpg",
+          "title": "Agliata",
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Mexican food",
+      "subTitle": "Mexican food is vibrant, delicious, fresh and fun. It is also colourful, spicy and uses an amazing array of chillies, both fresh and dried",
+      "img": "https://cdn.cheapism.com/images/Budget_Friendly_Mexican_Dishes.2e16d0ba.fill-1440x605.jpg",
+      "products": [
+        {
+          "id": 0,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chilaquiles-d90d64c.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Chilaquiles",
+          "price": 69
+        },
+        {
+          "id": 1,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/carb-tostadas-aec271b.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Tostadas",
+          "price": 25
+        },
+        {
+          "id": 2,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/corn-on-the-cobs-dd5c99e.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Elote",
+          "price": 18
+        },
+        {
+          "id": 3,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/enchilada-973e55e.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Enchiladas",
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mediterranean food",
+      "subTitle": "Mediterranean food is home to some of the world’s most loved and iconic dishes. Many also believe this diverse cuisine is the key to a healthy life.",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/16/72/7f/07/mediterranean-bento-box.jpg",
+      "products": [
+        {
+          "id": 0,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chilaquiles-d90d64c.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Chilaquiles",
+          "price": 69
+        },
+        {
+          "id": 1,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/carb-tostadas-aec271b.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Tostadas",
+          "price": 25
+        },
+        {
+          "id": 2,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/corn-on-the-cobs-dd5c99e.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Elote",
+          "price": 18
+        },
+        {
+          "id": 3,
+          "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/enchilada-973e55e.jpg?webp=true&quality=90&resize=620%2C310",
+          "title": "Enchiladas",
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Burgers",
+      "subTitle": "hese best hamburger recipes include variations on the classic cheese burger, easy chicken burgers, and more homemade hamburger",
+      "img": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_TopStoryFaceDetect/474391",
+      "products": [
+        {
+          "id": 0,
+          "img": "https://hips.hearstapps.com/hmg-prod/images/190416-chicken-burger-082-1556204252.jpg",
+          "title": "Chicken Burger",
+          "price": 69
+        },
+        {
+          "id": 1,
+          "img": "https://elavegan.com/wp-content/uploads/2019/09/Vegan-burger-with-Awesome-burger-patty-veggies-and-homemade-cheese.jpg",
+          "title": "Vegan Burger",
+          "price": 25
+        },
+        {
+          "id": 2,
+          "img": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+          "title": "Cheese Burger",
+          "price": 18
+        },
+        {
+          "id": 3,
+          "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-750%2Fd47%2Fgrilled-lamb-burger-yogurt-feta-sauce-103362169%2Fgrilled-lamb-burger-yogurt-feta-sauce-103362169_horiz.jpg%3Fitok%3DCHiBm02m",
+          "title": "Lamb Burger",
+          "price": 14
+        }
+      ]
+    }
+  ]
+}

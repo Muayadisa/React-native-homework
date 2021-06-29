@@ -1,0 +1,6 @@
+module Pods_client_clientTests {
+  umbrella header "Pods-client-clientTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
